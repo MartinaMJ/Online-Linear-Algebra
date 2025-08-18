@@ -39,4 +39,4 @@ plotly
 bqplot
 bokeh
 matplotlib
-ipywidgets
+nbformat
