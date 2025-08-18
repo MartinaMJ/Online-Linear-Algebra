@@ -40,4 +40,3 @@ bqplot
 bokeh
 matplotlib
 ipywidgets
-nbformat == 4.2.0
